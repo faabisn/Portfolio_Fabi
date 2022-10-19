@@ -1,6 +1,6 @@
 # Portfólio de Fabi! 🎉 
 
-Esse é um projeto que fizemos na semana #ImersãoDev da Alura afim de finalizarmos e exibirmos todos os outros projetinhos criados nessas duas semanas.
+Esse é um projeto que fizemos na semana #ImersãoDev da Alura afim de finalizarmos e exibirmos todos os outros projetinhos criados nessas duas semanas de muito conhecimento e desafios.
 
 Utilizei: HTML; CSS; JavaScript e algumas lágrimas 😂 
 
